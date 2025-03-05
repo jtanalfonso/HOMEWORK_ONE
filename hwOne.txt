@@ -1,6 +1,1 @@
-Umar_Azizadah_Branch
-Hello, my name is Julian and I am working on hw1
-Hello, our names are Julian Analfonso and Umar Azizadah and we are working on hw4 together, we started working on hw4 together on 3/3/2025
-
-Hello, our names are Julian and Tyler Bacong, and we are working on hw4 together.
-main
+Hello, our names are Julian and Tyler Bacong and we are working on hw4 together, we started working together on 03/03/2025
